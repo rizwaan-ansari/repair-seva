@@ -60,7 +60,9 @@ const config: Config = {
         electricLime: {
           "400": "#F0FF42"
         },
-        'lightPeach': "#FFF2E5"
+        'lightPeach': "#FFF2E5",
+        "alabasterPeach": "#FFF8F0",
+        "mutedMidnightBlue": "#1D355799",
   		},
   		borderRadius: {
   			lg: 'var(--radius)',
